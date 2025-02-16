@@ -10,3 +10,7 @@ tags:
 # t﻿est de texte
 
 q﻿lkjsdkljqsdkljqds
+
+
+
+![gergerg](/static/img/advisory.jpg "ergerg")
